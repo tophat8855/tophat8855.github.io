@@ -1,7 +1,7 @@
 ---
 title: Category Theory in Clojure, Clojure-Provo Meetup Notes
 date: 2020-07-31
-tags: ['post', 'coding', 'clojure']
+tags: ['post', 'coding', 'clojure', 'category theory']
 ---
 
 This evening I attended a virtual meetup for the Clojure-Provo titled,

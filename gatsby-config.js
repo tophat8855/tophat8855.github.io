@@ -13,16 +13,20 @@ module.exports = {
     twitterCreator: 'https://twitter.com/tophat8855', // creator account on twitter
     social: [
       {
-        icon: `twitter`,
-        url: `https://twitter.com/tophat8855`
-      },
-      {
         icon: `github`,
         url: `https://github.com/tophat8855`
       },
       {
+        icon: `twitter`,
+        url: `https://twitter.com/tophat8855`
+      },
+      {
         icon: `linkedin`,
         url: `https://www.linkedin.com/in/heathermoorefarley/`
+      },
+      {
+        icon: `medium`,
+        url: `https://medium.com/@TopHat8855`
       }
     ]
   },
