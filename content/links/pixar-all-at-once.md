@@ -7,4 +7,4 @@ tags: ['pixar', 'link']
 
 Pixar's in-house a capella group singing original song, "All at Once" by Julia Cho and Barney Jones.
 
-<Embed src="https://www.youtube.com/watch?v=uS4biXRzrpE"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uS4biXRzrpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
