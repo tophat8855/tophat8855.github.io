@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://chronoblog.now.sh/tags/movie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/biking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/pixar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/tv-show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/clojure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/category-theory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/note/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/zine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/movie-miss-juneteenth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/calbike-august-dream-ride/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/movie-love-basketball/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/pixar-all-at-once/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/show-atelier/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/movie-we-bare-bears/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/zine-cyclista-issue-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/movie-john-wick-chapter-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/movie-one-cut-of-the-dead/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/coding-hibernate-to-jdbc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/coding-everything-and-the-spring-cloud-data-flow-sink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/links/knitting-irrational/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/notes/end-of-month/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/notes/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/code-category-theory-in-clojure-provo-meetup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
