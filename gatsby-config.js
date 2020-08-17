@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Heather',
+    siteTitle: 'Heather M-F',
     siteDescription: 'A personal site/blog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://tophat8855.github.io',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
@@ -31,6 +31,59 @@ module.exports = {
     ]
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title: siteTitle
+                description: siteDescription
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  custom_elements: [{ "content:encoded": edge.node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMdx(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "Heather M-F's RSS Feed",
+          },
+        ],
+      },
+    },
     {
       resolve: 'gatsby-theme-chronoblog',
       options: {
