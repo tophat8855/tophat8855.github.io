@@ -1,6 +1,6 @@
 ---
 title: 'Immutable Stack Series: Building Anki Clone'
-date: 2020-10-25
+date: 2020-09-25
 link: https://www.youtube.com/playlist?list=PLUGfdBfjve9Wo393uG0rSXnxDS98aoVdo
 tags: ['coding', 'link', 'clojure']
 ---
