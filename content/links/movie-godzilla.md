@@ -1,6 +1,6 @@
 ---
 title: Godzilla
-date: 2020-10-09
+date: 2020-10-08
 link: https://www.imdb.com/title/tt0831387/
 tags: ['movie', 'link']
 ---
