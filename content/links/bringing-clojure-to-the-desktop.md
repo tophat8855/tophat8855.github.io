@@ -1,9 +1,13 @@
 ---
-title: Bringing Clojure to the Desktop by Vlad Protsenko
-date: 2020-09-11
-link: https://www.youtube.com/watch?v=1omb6uy_lsE&feature=youtu.be&t=2933
+title: "Clojure from the Ground Up: Polymorphism"
+date: 2020-10-30
+link: https://aphyr.com/posts/352-clojure-from-the-ground-up-polymorphism
 tags: ['coding', 'clojure', 'link']
 ---
-I watched this meetup talk today, and would like to try cljfx out on a small example app in the future.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1omb6uy_lsE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I walked through Aphyr's Clojure from the Ground Up chapter on polymorphism today while following along in my repl
+and it was really good to see the how defmulti/defmethod, definterface, defrecord work similarly and differently.
+
+If you are looking for a good post about Clojure and polymorphism, this is probably the best.
+
+I would like to do the problem set at the bottom of the chapter tomorrow.
