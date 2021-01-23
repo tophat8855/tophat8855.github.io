@@ -1,6 +1,6 @@
 ---
 title: The Mummy
-date: 2021-02-08
+date: 2021-01-08
 link: https://www.imdb.com/title/tt0120616/
 tags: ['movie', 'link']
 ---
