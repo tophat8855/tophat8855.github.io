@@ -1,6 +1,6 @@
 ---
 title: Murder Among the Mormons
-date: 2021-03-12
+date: 2021-03-09
 link: https://www.imdb.com/title/tt13987620
 tags: ['tv-show', 'link']
 ---
