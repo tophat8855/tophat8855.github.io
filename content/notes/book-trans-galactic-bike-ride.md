@@ -2,7 +2,7 @@
 title: "Trans-Galactic Bike Ride: Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers"
 date: 2021-03-31
 description: "Book review of Trans-Galactic Bike Ride: Feminist Bicycle Science Fiction Stories of Transgender and Nonbinary Adventurers by Lydia Rogue"
-tags: ['post', 'book']
+tags: ['note', 'book']
 ---
 We Bike Book Club April 2021
 

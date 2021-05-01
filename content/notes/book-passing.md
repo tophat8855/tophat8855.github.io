@@ -2,7 +2,7 @@
 title: "Passing"
 date: 2021-03-20
 description: "Book review of Passing by Nella Larsen"
-tags: ['post', 'book']
+tags: ['note', 'book']
 ---
 Read this for the RS book group April 21.
 
