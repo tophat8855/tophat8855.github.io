@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://tophat8855.github.io/tags/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/tags/biking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/tags/short/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/tags/show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/tags/movie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/book/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/tags/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/biking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/movie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/note/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/short/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/tags/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/clojure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/tv-show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -21,10 +21,17 @@
 <url> <loc>https://tophat8855.github.io/tags/category-theory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/zine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/cycles-of-change/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/movie-clue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/book-for-teenage-girls-with-wild-ambitions-and-trembling-hearts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/movies-i-had-an-abortion/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/movie-ant-man/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/bike-a-thon-2021/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/movie-the-mitchells-vs-the-machines/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/short-whiteout/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/short-all-bodies-on-bikes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/show-new-girl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/links/linda-lindas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/bicycle-film-festival/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/movie-i-bought-a-vampire-motorcycle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/knitting-tongariro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -134,6 +141,8 @@
 <url> <loc>https://tophat8855.github.io/links/coding-hibernate-to-jdbc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/coding-everything-and-the-spring-cloud-data-flow-sink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/links/knitting-irrational/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/notes/book-poetry-for-kids-emily-dickinson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/notes/book-hellboy-the-troll-witch-and-other-stories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/notes/book-hellboy-into-the-silent-sea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/notes/book-i-gave-her-a-name/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/notes/book-the-fire-next-time/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -144,6 +153,12 @@
 <url> <loc>https://tophat8855.github.io/notes/book-the-old-guard-book-one/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/notes/end-of-month/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/notes/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/book-the-fire-thief/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/book-surfaces-and-essences-analogy-as-the-fuel-and-fire-of-thinking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/book-the-giver-of-stars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/book-teenage-castaways-true-stories-of-shipwreck-survivors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/books-the-night-watchman/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/book-one-more-croissant-for-the-road/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/book-the-rise-and-fall-of-dodo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/book-a-maze-me/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/book-mothers-milk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -196,7 +211,7 @@
 <url> <loc>https://tophat8855.github.io/book-the-overstory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/code-category-theory-in-clojure-provo-meetup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tophat8855.github.io/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tophat8855.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/knitting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tophat8855.github.io/coding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
